@@ -1,0 +1,6 @@
+{
+  "name": "Robotic Arm 3D Controller",
+  "description": "Interactive 3D industrial 5-axis robotic arm manipulator simulation and control dashboard with kinematics, pick-and-place sequence, and real-time telemetry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
